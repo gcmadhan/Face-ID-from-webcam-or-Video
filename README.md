@@ -55,7 +55,7 @@ They proposed an approach in which it generates a high-quality face mapping from
 
  
 ## Ouput
- <img height="250" alt="accuracy" src="https://github.com/gcmadhan/Face-ID-from-webcam-or-Video/upload/main/Readme/Expi 2.mp4">
+ <img height="250" alt="accuracy" src="https://github.com/gcmadhan/Face-ID-from-webcam-or-Video/upload/main/Readme/Expi-2.gif">
 
 
 ## Limitations/Future changes
